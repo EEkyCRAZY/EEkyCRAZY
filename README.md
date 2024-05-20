@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java game development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me elishapepin@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he, him
+- ⚡ Fun fact: I am only 13!
 
 <!---
 EEkyCRAZY/EEkyCRAZY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
