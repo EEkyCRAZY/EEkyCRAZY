@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Godot game development
 - 💞️ I’m looking to collaborate on Godot development.
 - 📫 How to reach me elishapepin@gmail.com
-- 😄 Pronouns: he, him
 - ⚡ Fun fact: I am only 13!
 
 <!---
